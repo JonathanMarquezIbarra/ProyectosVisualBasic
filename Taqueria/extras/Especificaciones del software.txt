@@ -1,0 +1,16 @@
+El programa Taqueria.exe es un demo aun no terminado
+faltan detalles como:
+
+- Crear claves de acceso al programa
+- Mejorar el diseño
+- Cancelar una cuenta
+- Sumar otra cantidad al pedido
+- Sumar los precios
+- Hacer la cuenta
+- Imprimir la cuenta
+
+Esto es solo una demostracion, los detalles faltantes
+estan por corregirse y les estare mandando una version
+mas completa de este mismo beta.
+
+Jonathan Márquez.
